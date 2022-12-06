@@ -1,14 +1,17 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "package": "sfpowerscripts-artifact",
-      "versionNumber": "1.0.0.NEXT",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "sfpowerscripts-artifact",
+            "versionNumber": "1.0.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "vz",
+    "sfdcLoginUrl": "https://veezla.my.salesforce.com",
+    "sourceApiVersion": "56.0",
+    "packageAliases": {
+        "sfpowerscripts-artifact": "0Ho3i000000Gmk4CAC",
+        "sfpowerscripts-artifact@1.0.0-1": "04t3i000002OUZjAAO"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "50.0",
-  "packageAliases": {}
 }
